@@ -18,8 +18,8 @@ class ViewController: UIViewController {
     var total = "";
     override func viewDidLoad() {
         super.viewDidLoad()
-        //Changing keyboard to only have numbers
-//        billAmountTextField.keyboardType = UIKeyboardType.decimalPad
+        //changing background color of apps UI
+        self.view.backgroundColor = UIColor.systemTeal
     }
 
     
@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     
     @IBAction func calculateTip(_ sender: Any) {
         print("in calculate tip function")
-        //Obtaining input from user, from text field
+        //Obtaining input from user
         billLabel.text = String(total)
         let bill = Double(total) ?? 0
         //Percentages used to calculate tip
@@ -41,7 +41,7 @@ class ViewController: UIViewController {
         tipPercentageLabel.text = String( format: "$%.2f", tip)
         totalLabel.text = String( format: "$%.2f", totalBill)
     }
-//*************functions to handle button presses*************//
+//*************Actions to handle button presses*************//
     @IBAction func button1(_ sender: Any) {
         print("1 pressed")
         total += "1"
