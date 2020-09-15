@@ -3,7 +3,7 @@ UPDATE 9.15.2020
 App updated to work more like a typical calculator, or the Calculator App on iOS.
 - Added Buttons for Numbers
 - Added UI/UX Elements
-- Changed design og UI
+- Changed design of UI
 - Shows the number typed by the User in Real Time (Does not show decimal as bill total until the user presses the '.' button
 - Can only add one decimal, before the user was able to enter multiple decimals (A number like: 12.23.43333 cannot be entered)
 
