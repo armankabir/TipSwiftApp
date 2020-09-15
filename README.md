@@ -8,7 +8,7 @@ App updated to work more like a typical calculator, or the Calculator App on iOS
 - Can only add one decimal, before the user was able to enter multiple decimals (A number like: 12.23.43333 cannot be entered)
 
 ### Video Walthrough of New Design: 
-![tip-app-gif](https://i.imgur.com/0jcUOyX.gif)
+![tip-app-gif](https://i.imgur.com/MPOXJp7.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
