@@ -1,3 +1,17 @@
+UPDATE 9.15.2020
+-
+App updated to work more like a typical calculator, or the Calculator App on iOS.
+- Added Buttons for Numbers
+- Added UI/UX Elements
+- Changed design og UI
+- Shows the number typed by the User in Real Time (Does not show decimal as bill total until the user presses the '.' button
+- Can only add one decimal, before the user was able to enter multiple decimals (A number like: 12.23.43333 cannot be entered)
+
+## Video Walthrough of New Design: 
+<img src='https://imgur.com/a/6kpjxDq' />
+ 
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 # Pre-work - Tip App
 
 Tip is a tip calculator application for iOS.
