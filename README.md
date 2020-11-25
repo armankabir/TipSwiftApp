@@ -7,7 +7,7 @@ App updated to work more like a typical calculator, or the Calculator App on iOS
 - Shows the number typed by the User in Real Time (Does not show decimal as bill total until the user presses the '.' button
 - Can only add one decimal, before the user was able to enter multiple decimals (A number like: 12.23.43333 cannot be entered)
 
-### Video Walthrough of New Design: 
+### Video Walkthrough of New Design: 
 ![tip-app-gif](https://i.imgur.com/MPOXJp7.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
